@@ -26,6 +26,7 @@ img:hover {
   text-align: center;
   background-color: red;
   border-width: 10px;
+  width: 100%;
 }
 #praise {
   width: 300px;
