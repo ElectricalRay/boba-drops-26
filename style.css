@@ -11,8 +11,8 @@ body {
   font-size: 1in;
 }
 img {
-  width: 1000px;
-  transform: scaleX(200%);
+  width: 100%;
+  transform: scaleX(300%);
   filter: invert(0%);
   transition: filter 0.3s ease;
 }
