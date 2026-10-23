@@ -1,0 +1,40 @@
+body {
+  vertical-align: middle;
+  text-align: center;   
+  align-items: center;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  background-color: aquamarine;
+}
+.title {
+  color: blue;
+  vertical-align: middle;
+  font-size: 1in;
+}
+img {
+  width: 1000px;
+  transform: scaleX(200%);
+  filter: invert(0%);
+  transition: filter 0.3s ease;
+}
+
+img:hover {
+  filter: invert(100%);
+}
+
+.images {
+  vertical-align: center;
+  text-align: center;
+  background-color: red;
+  border-width: 10px;
+}
+#praise {
+  width: 300px;
+  height: 150px;
+  color: green;
+  font-size: 40px;
+  background-color: aquamarine;
+  margin: 20px;
+  border-radius: 20px;
+  border-color: black;
+  border-width: 5px;
+}
